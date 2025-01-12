@@ -35,3 +35,9 @@ Project Steps
     Model Training: Using different machine learning models, including linear regression and random forest regressor, to train and predict house prices.
     Model Evaluation: Evaluating the performance of the models using metrics like R^2 score.
     Prediction Function: A function to predict house prices based on input features like location, total square footage, number of bathrooms, and BHK.
+Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
